@@ -17,7 +17,11 @@
 This is me and my family at Universal studios during my summer break. It was a lot of fun and our daughter loved the different characters walking around!
 
 **Resume**: 
+[https://github.com/mosiahvb/cse-397/blob/main/resume.pdf]
+
 
 **Cover Letter**:
+[]
 
 **LinkedIn**: 
+[https://www.linkedin.com/in/mosiahvaldez-84588a1a5/]
