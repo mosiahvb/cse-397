@@ -19,9 +19,13 @@ This is me and my family at Universal studios during my summer break. It was a l
 **Resume**: 
 [https://github.com/mosiahvb/cse-397/blob/main/resume.pdf]
 
+- I added Statistics to quantify my work results.
+- I listed Projects to give employers an idea of the work I can perform, and some of the projects that interest me. 
+- I attached my get hub page so employers can view my work and see my experience. 
+
 
 **Cover Letter**:
-[]
+[https://github.com/mosiahvb/cse-397/blob/main/Cover%20letter.pdf]
 
 **LinkedIn**: 
 [https://www.linkedin.com/in/mosiahvaldez-84588a1a5/]
